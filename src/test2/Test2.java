@@ -16,6 +16,8 @@ public class Test2 {
      */
     public static void main(String[] args) {
        private string atrib1;
+       
+       private string Lucio;
     }
     
 }
